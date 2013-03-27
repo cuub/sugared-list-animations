@@ -16,17 +16,6 @@ Demo
 
 [See demo here]
 
-Installation
---------------
-
-```sh
-git clone [git-repo-url] dillinger
-cd dillinger
-npm i
-mkdir -p public/files/{md,html}
-node app
-```
-
 
 License
 -
